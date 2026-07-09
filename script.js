@@ -7,7 +7,7 @@ window.addEventListener('load', () => {
 
 // Name Typing Effect
 const nameEl = document.getElementById('name');
-const text = "BM OFFICIAL";
+const text = "DINUWA";
 let i = 0;
 nameEl.innerHTML = "";
 
